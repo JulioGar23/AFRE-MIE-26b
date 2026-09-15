@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/portada.png" width="100%">
+</p>
+
 # Repositorio para la Materia de Acondicionadores para Fuentes Renovables de Energía
 
 Repositorio académico del  
